@@ -1,0 +1,3 @@
+Text for description in org.zengrong.ane.tool:StorageCont/getExternalState is not valid.
+org.xml.sax.SAXParseException; lineNumber: 2; columnNumber: 58; 与元素类型“pre”相关联的属性名称“org.zengrong.ane.enum.StrageState”必须后跟“=”字符。
+
